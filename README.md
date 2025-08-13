@@ -4,9 +4,9 @@ This repo contains a simple, explainable MVP to compute a quantitative supplier 
 
 ## Structure
 - `data/raw/` — input CSVs from the customer
+- `data/output/` — output CSV with supplier risk scores
 - `notebooks/01_supplier_risk_mvp.ipynb` — main analysis
-- `src/` — helper functions (loading, cleaning, scoring)
-- `reports/` — outputs (final table, charts)
+- `reports/` — chart outputs of analysis
 
 ## Quickstart
 ```bash
